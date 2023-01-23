@@ -1,0 +1,1 @@
+# This is a test script to make sure that GitHub works
